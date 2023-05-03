@@ -1,7 +1,7 @@
 ### 🏁 김운의 GitHub입니다! 🏎️
 
 <h3 align="center">💻 포트폴리오 💻</h3>
-https://drive.google.com/file/d/1Z5mQDQ-04N1NbLF8AopY26uqeOGexFXA/view?usp=sharing
+<p align="center">https://drive.google.com/file/d/1Z5mQDQ-04N1NbLF8AopY26uqeOGexFXA/view?usp=sharing</p>
 
 
 <p align="right">
