@@ -1,8 +1,5 @@
 ### 🏁 김운의 GitHub입니다! 🏎️
 
-<h3 align="center">💻 포트폴리오 💻</h3>
-<p align="center">https://drive.google.com/file/d/1Z5mQDQ-04N1NbLF8AopY26uqeOGexFXA/view?usp=sharing</p>
-
 
 <p align="right">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcloudwoon&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
